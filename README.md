@@ -117,9 +117,6 @@ POST /api/bookings
 
 GET /api/bookings/{id}
 
-📸 Screenshots
-Add screenshots here of homepage, booking form, admin dashboard, etc.
-
 🤝 Contributing
 Pull requests are welcome.
 If you want to add features, feel free to fork this repo and contribute.
